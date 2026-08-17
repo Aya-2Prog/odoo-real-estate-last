@@ -9,5 +9,6 @@
         "views/res_users_views.xml",
         "views/estate_menus.xml",
     ],
-    "application":True,
+    "application":False,
+    "installable":True,
 }
